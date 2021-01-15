@@ -1,6 +1,6 @@
-host=74.208.67.16
-port=1528
-database=bancopdb
-username=bancouser
-password=ska89_7652
-driver=oracle.jdbc.driver.OracleDriver
+host=
+port=
+database=
+username=
+password=
+driver=
